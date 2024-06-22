@@ -31,7 +31,7 @@ class Scraper:
             response = self.fetchURLlib(self.headers, type)
         else:
             response = response.content.decode(response.apparent_encoding)
-        return self.parseHTML(response, type)
+        return self.parseResponse(response, type)
 
     def fetchRequest(self, headers: dict, type=""):
         if type == 'search':
@@ -58,7 +58,7 @@ class Scraper:
             content = raw_data.decode(encoding)
             return content
 
-    def parseHTML(self, response, type: str):
+    def parseResponse(self, response, type: str):
         parsedResponse = {}
         baseURL = urlparse(self.url).netloc
         if type == 'html':
