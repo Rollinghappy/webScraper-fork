@@ -13,10 +13,12 @@
             "description": "description",
             "pubDate": "pubDate"
         },
-        "search": {
-            "url": "https://www.fiercepharma.com/search-results?fulltext_search={0}&dns=fiercehealthcare_com%2Cfiercebiotech_com%2Cfiercepharma_com",
-            "parent": "div",
-            "element": "a"
+        "deep-scrape":{
+            "link" : "https://www.fiercepharma.com/",
+            "parent" : "content p-0 col col-md-12",
+            "href" : "a",
+            "date" : "date d-inline-block",
+            "next" : "extended-load d-inline-block"
         }
     },
     "pharmaceutical-journal.com": {
@@ -28,10 +30,13 @@
             "parent": "article",
             "element": "a"
         },
-        "search": {
-            "url": "https://pharmaceutical-journal.com/?s={0}",
-            "parent": "article",
-            "element": "a"
+        "deep-scrape":{
+            "link" : "https://pharmaceutical-journal.com/article/news/all",
+            "parent" : "//*[@class='article-teaser']",
+            "href" : "a",
+            "date" : "article-teaser__date",
+            "next" : "//*[@class='pagination__link pagination__link--next']",
+            "next-type" : "link"
         }
     },
     "pharmatimes.com":  {
@@ -48,10 +53,13 @@
             "parent": "h2",
             "element": "a"
         },
-        "search": {
-            "url": "https://pharmatimes.com/?s={0}&asp_active=1&p_asid=3&p_asp_data=1&filters_initial=1&filters_changed=0&qtranslate_lang=0&current_page_id=101853",
-            "parent": "h2",
-            "element": "a"
+        "deep-scrape":{
+            "link" : "https://pharmatimes.com/news/",
+            "parent" : "//*[@class='dg-post-thumb']",
+            "href" : "a",
+            "date" : "published",
+            "next" : "//*[@class='button']",
+            "next-type" : "button"
         }
     },
     "www.nature.com": {
@@ -68,10 +76,13 @@
             "parent": "h3",
             "element": "a"
         },
-        "search": {
-            "url": "https://www.nature.com/search?q={0}&journal=",
-            "parent": "h3",
-            "element": "a"
+        "deep-scrape":{
+            "link" : "https://www.nature.com/nature/research-articles",
+            "parent" : "//*[@class='u-full-height c-card c-card--flush']",
+            "href" : "a",
+            "date" : "c-meta__item c-meta__item--block-at-lg",
+            "next" : "//*[@data-page='next']/a",
+            "next-type" : "link"
         }
     },
     "www.biopharmadive.com": {
@@ -82,10 +93,13 @@
             "parent": "h3",
             "element": "a"
         },
-        "search": {
-            "url": "https://www.biopharmadive.com/search/?q={0}",
-            "parent": "h3",
-            "element": "a"
+        "deep-scrape":{
+            "link" : "https://www.biopharmadive.com/topic/pharma/",
+            "parent" : "//*[@class='row feed__item']",
+            "href" : "a",
+            "date" : "secondary-label",
+            "next" : "//*[@class='button button--soft']",
+            "next-type" : "link"
         }
     }
 }

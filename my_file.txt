@@ -28,3 +28,823 @@ By
 Kevin Dunleavy
 Jun 21, 2024 7:51am
 
+title: Researchers awarded £1.5m for national dementia inequalities network
+
+metadata: 
+by
+Jen Brogan
+|
+11th Jul 2024
+|
+News
+
+content: 
+Dementia researchers from the University of Liverpool have been awarded £1.5m to establish the first-ever national network for dementia inequalities in diagnosis and care.
+The new network is just one of four dementia networks that have benefited from £5.5m funding from the Alzheimer’s Society, the Economic and Social Research Council (ESRC) and the National Institute for Health and Care Research (NIHR).
+Affecting more than 944,000 people in the UK, dementia is a neurodegenerative condition that affects the ability to remember, think or make decisions in everyday life.
+For those living with the condition, as well as their unpaid carers, many inequalities can often be faced when accessing care and obtaining an assessment and diagnosis.
+The University of Liverpool’s Institute of Population Health’s senior research fellow, Dr Clarissa Giebel, will lead the network in collaboration with Dame Louise Robinson, regius professor of ageing, Newcastle University, to unite a network of people with academic, professional and lived experience and expertise in dementia.
+Liverpool’s ESRC Equalities in Dementia (EquaDem) Network Plus aims to develop solutions to combat challenges in dementia diagnosis and care and to impact clinical and social care practice.
+By creating a community of research and practice that comprises seven universities, two national dementia charities, health and social care professionals and lived experts, and the University College London-based NIHR-funded ‘Dementia Researcher’, the network aims to identify solutions to inequalities linked to knowledge mobilisation internships and pilot projects as part of a wider strategy to communicate research findings to a range of audiences and policymakers who will focus on implementing their recommendations.
+Giebel commented: “We are already working regionally to bring together opinions, knowledge and voices to address these inequalities and I’m delighted that we can now do this nationally.”
+“This network grant provides a unique opportunity to focus both on co-developing solutions with the people who experience these and also to mentor and support our next generation of dementia care researchers,” said Robinson.
+
+title: New policy review reveals ten cancer challenges facing new UK government
+
+metadata: 
+by
+Jen Brogan
+|
+11th Jul 2024
+|
+News
+
+content: 
+A new policy review produced by cancer doctors and experts from across the UK, including King’s College London (KCL), has revealed the ten biggest cancer challenges facing the new UK government.
+Published in the Lancet Oncology, the review highlights the time-critical issues impacting the delivery of cancer care services by the NHS, which should be urgently addressed via a comprehensive national cancer control plan.
+It is estimated that there are more than three million people living in the UK with cancer, according to Macmillan Cancer Support, with breast cancer being the most prevalent, accounting for more than 55,000 people.
+The authors said that the NHS in the UK is behind other countries and, if not prioritised, could add additional strain to the healthcare system, widen social inequality and weaken economic recovery.
+The review highlighted several ongoing failures in reducing cancer survival inequalities, warned of treatment delays, and warned that novel solutions such as new diagnostic tests have been identified as resolutions to the cancer crisis; however, the paper makes clear that “none address the fundamental issues of cancer as a systems problem”.
+To tackle these challenges, experts established several recommendations to improve the survival, quality of life and experience of cancer patients in the UK.
+The policy recommendations include tackling social inequalities in access and outcomes of cancer by creating an NHS task force to inform policy solutions; identifying spare capacity via modelling, creating governance for the use of regional capacity, and testing operational interventions to speed up processes such as waiting time to reduce the cancer backlog; expanding national audits across the UK; and researching how hospitals and professionals can drive change to tackle variation in cancer quality across the NHS.
+Professional Richard Sullivan, Institute of Cancer Policy, commented: “A new national cancer control plan will need to take a whole-system approach, integrating solutions for critical areas such as workforce, service quality and societal equity.”
+
+title: UK DRI and NHS collaborate on digitally enabled dementia care platform
+
+metadata: 
+by
+Jen Brogan
+|
+10th Jul 2024
+|
+News
+
+content: 
+The UK Dementia Research Institute (UK DRI), in collaboration with the NHS, aims to conduct a new two-year study to prepare its digitally-enabled dementia care platform, Minder, to be integrated into health and social care services.
+Funded by LifeArc, the study will enable digital care for people living with dementia while empowering the NHS and social care services to provide care of the highest quality in patients’ own homes.
+Estimated to affect 944,000 people in the UK, dementia is a general term for the impaired ability to remember, think, or make decisions that affects everyday life.
+Developed by the UK DRI Centre for Care Research and Technology, Minder is a home monitoring platform that harnesses artificial intelligence (AI) and digital technology and is integrated with public services to detect common problems, such as infections, earlier to prevent hospitalisations for people living with dementia.
+Currently, around one in five hospitalisations of people living with the neurological condition are due to potentially preventable causes, including falls, neuropsychiatric problems or infection.
+By detecting and addressing these problems early, hospital admissions can be reduced, providing benefits for both people with dementia and public services.
+Following a successful pilot phase, the new study will prepare Minder for integration with existing NHS services, develop a new protocol for linking, data sharing and assessing the clinical, economic and patient benefits of the model, which is due to finish in April 2026.
+Professor David Sharp, centre director, UK DRI Centre for Care Research and Technology, commented: “We’re now ready to put our innovative model to the test on a larger scale…. [to] enable more people with dementia to receive personalised, in-home support.”
+LifeArc’s chief scientific officer, Dr Dave Powell, said: “AI and advanced digital platforms have the potential to revolutionise dementia care [and] the Minder platform will play a key role in allowing people with dementia to live independently in their own homes for longer.”
+
+title: Institutions to lead £1.7m-funded network to support people at risk of dementia
+
+metadata: 
+by
+Jen Brogan
+|
+10th Jul 2024
+|
+News
+
+content: 
+University College London (UCL) and the University of Exeter are set to co-lead a new national Dementia Network Plus initiative supported by more than £1.7m in funding.
+The Sustainable Prevention, Innovation and Involvement NETwork (SPIINNET) will help to reduce dementia risk and improve people’s experiences of living with dementia by supporting new projects and engaging with communities.
+Affecting more than 944,000 people in the UK, dementia is a neurodegenerative condition that affects the ability to remember, think or make decisions in everyday life.
+The new network will combine researchers from 14 universities with specialist organisations, including King’s College London, the University of Plymouth, Bangor, Cardiff Metropolitan, East Anglia, Northampton, Nottingham, Oxford, Southampton, Stirling, Strathclyde, Sunderland and Worcestershire.
+SPIINNET aims to utilise existing networks and umbrella organisations to deliver a programme to create connections between the experience, knowledge and resources of people across the network while improving the quality of experience for people with dementia, families, communities, the NHS and social care.
+It will include workshops to design research projects, training events, funding innovative ideas, meetings to raise awareness about dementia and prevention, and annual conferences to share learning.
+The University of Exeter’s professor Chris Fox, network co-lead, commented: “This funding will enable our new [network] to action the latest research both to prevent dementia and to work with people who have the condition to help them access early support and live the best lives possible.”
+Network co-lead, Dr Georgina Charlesworth, UCL psychology and language sciences, said: “I hope that our work over the next four years will make a meaningful contribution to brain health, especially for those in at-risk or under-represented communities.”
+Last month, the Alzheimer’s Society, Dementia UK, Alzheimer’s Research UK, the UK Dementia Research Institute and Alzheimer Scotland collaborated to create a new manifesto for dementia, calling on the new UK government to make dementia a key health priority in the UK.
+
+title: Francis Crick and ICL spinout raises £90m to clinically develop cancer treatments
+
+metadata: 
+by
+Jen Brogan
+|
+9th Jul 2024
+|
+News
+
+content: 
+The Francis Crick Institute and Imperial College London (ICL) cancer therapy spinout, Myricx Bio, has raised £90m in series A financing to advance its novel cancer treatments into clinical development.
+The investment will help to develop the company’s therapies to treat a range of different tumour types, including breast, lung and colorectal cancer, to advance into clinical testing.
+Currently the largest series A round to ever be raised by an EU academic biotech spinout, the round was co-led by life science investors Novo Holdings and Abingworth, with additional investors including British Patient Capital, Cancer Research Horizons and Eli Lilly and Company, as well as founding investors Brandon Capital and Sofinnova Partners.
+The spinout is focused on the discovery and development of a novel class of payloads for antibody-drug conjugates (ADCs), which involves antibodies that bind to the surface of certain tumour types to deliver a drug to its target.
+The drugs selectivity inhibit an enzyme known as N-myristoyltransferase, which works to modify proteins and plays a key role in multiple specific processes cancer cells use to stay alive.
+“Antibodies have become a mature therapeutic modality,” explained Professor Ed Tate, co-founder of Myricx, GSK chair in chemical biology, department of chemistry, ICL and satellite group leader, the Crick.
+“It hits one specific point in cell biology that links into dozens of different pathways, many of which are critical for cancer cells compared to normal cells,” Tate added. “And, where most ADC payloads have an immediate effect, our drug takes up to several days before it starts to kill cancer cells, giving normal tissues time to recover.”
+So far, preclinical investigations of the inhibitors have shown complete and durable tumour regressions, which were well-tolerated, in several animal models of solid cancers and patient-derived organoid models.
+With these potentially novel treatments, Myricx hopes that they can more selectively affect cancer cells without toxic side effects over a longer duration of time while targeting dormant or senescent cells, avoiding cancer recurrence.
+
+title: SMC accepts Boehringer/Lilly’s Jardiance for CKD within NHS Scotland
+
+metadata: 
+by
+Jen Brogan
+|
+9th Jul 2024
+|
+News
+
+content: 
+The Scottish Medicines Consortium (SMC) has accepted Boehringer Ingelheim and Eli Lilly’s Jardiance (empagliflozin) for use within NHS Scotland to treat adult patients living with chronic kidney disease (CKD).
+The regulator has indicated the therapy for adult CKD patients who are receiving optimised standard care, including angiotensin converting enzyme inhibitors or angiotensin 2 receptor blockers, with either an estimated glomerular filtration rate (eGFR) of 20ml/min/1.73m2 up to 45ml/min/1.73m2 or an eGFR of 45ml/min/1.73m2 up to 90ml/min/1.73m2.
+Additionally , patients in Scotland in the 45ml to 80ml group will now be eligible to receive Jardiance if they have a urine albumin-to-creatine ratio of 22.6mg/mmol or more or type 2 diabetes (T2D) mellitus.
+Affecting nearly 850 million people worldwide, CKD is a serious, progressive condition that is caused by decreased kidney function and is often triggered by diabetes, hypertension and glomerulonephritis.
+Already approved in the EU and US, Jardiance is an oral, once-daily, highly selective sodium-glucose cotransporter 2 inhibitor and is the first ever T2D medicine to include cardiovascular death risk reduction in its label across several countries.
+The SMC’s decision was based on results from the randomised, double-blind phase 3 EMPA-KIDNEY study, which assessed Jardiance in patients with CKD in addition to standard of care.
+Published in the New England Journal of Medicine, results showed that treatment with Jardiance in addition to standard of care significantly reduced the risk of first occurrence of the progression of kidney disease or death from cardiovascular causes compared to standard of care alone.
+In March 2022, the companies announced that the phase 3 study would stop early due to clear positive efficacy results in people with CKD.
+Commenting at the time, Jeff Emmick, vice president, product development, Lilly, said: “The early stop of the trial is a tremendous step toward our goal of improving the lives of adults living with kidney disease.”
+
+title: Coloplast launches digital leakage notification system Heylo for stoma patients
+
+metadata: 
+by
+Jen Brogan
+|
+8th Jul 2024
+|
+News
+
+content: 
+Coloplast has announced the launch of its world-first digital leakage notification system, Heylo, to benefit patients living with a stoma.
+The new system is now available through the NHS to help alleviate the physical and mental burden of leakage in patients living with a stoma, following an individual consultation and assessment of leakage anxiety.
+According to NHS data, more than 176,000 people in the UK are living with a stoma, an opening on the abdomen that can be connected to either the digestive or urinary system to remove waste from the body.
+The most common conditions that can result in stoma surgery include colorectal cancer, bladder cancer, ulcerative colitis, Crohn’s disease and accidental injury.
+For most patients, leakage of a stoma is currently the biggest challenge, with 92% of people worrying about leakage, impacting both their physical and mental well-being, while 54% are unable to sleep, 37% feel like they are not in control and 30% are limited in their work.
+The new system aims to tackle these challenges facing stoma patients by allowing users to track potential leakages, reducing anxiety and helping patients feel reassured, comfortable and in control.
+Used under most ostomy baseplates, Heylo works via a sensor layer that connects via Bluetooth to the user’s smartphone and an app. After attaching the device under the stoma, users can discreetly open the app and check the leakage status.
+Research has already shown that Heylo can reduce leakage incidents onto clothes by up to 82%, improving quality of life for patients.
+In addition, these alerts help to prevent skin problems for stoma patients, as well as reduce the need for avoidable medical appointments and the burden on healthcare professionals.
+Coloplast’s head of marketing: Heylo, Adrian Summerson, commented: “We understand that life with a stoma is not always easy. With the launch of Heylo in the UK… we are aiming to provide both an innovative solution and reassurance to the people who need it most.”
+
+title: Mission awarded $5.2m to advance potential Parkinson’s treatment
+
+metadata: 
+by
+Jen Brogan
+|
+8th Jul 2024
+|
+News
+
+content: 
+Mission Therapeutics has been awarded $5.2m in funding from Parkinson’s UK’s Virtual Biotech programme and the Michael J. Fox Foundation to advance a potential treatment for early-stage Parkinson’s disease (PD).
+The funding will help support the company’s ongoing phase 1 programme, which consists of a 28-day dosing of its small drug molecule, MTX325, to assess its safety, tolerability, pharmacokinetic profile and central nervous system penetration in patients living with the neurodegenerative condition.
+Affecting around 153,000 people in the UK, PD is a progressive neurological condition that damages parts of the brain over time, causing tremors, slow movement and stiff and inflexible muscles.
+Mission’s MTX325 is a potent, selective, small-molecule brain-penetrant USP30 inhibitor that works to protect dopamine-producing neurons by improving mitochondrial quality and function.
+Previous research has already shown evidence that a build-up of dysfunctional mitochondria in cells is linked to a variety of diseases, including PD, kidney disease, heart failure, idiopathic pulmonary fibrosis and Duchenne’s muscular dystrophy.
+In December, researchers from Cambridge and Harvard University, along with Mission, showed strong experimental evidence that supported MTX325 in PD by targeting USP30 in a study published in Nature Communications.
+The phase 1 in-human clinical trial of MTX325 began in March and has already produced positive results. Multiple ascending doses are set to begin in early 2025 to evaluate MTX325 as well as observe its effects on relevant mechanisms and disease biology biomarkers.
+Anker Lundemose, chief executive officer, Mission, commented: “This significant grant… underlines the huge potential of MTX325 as a disease-modifying treatment for this terrible neurodegenerative illness [and] represents a major endorsement of our mitophagy strategy in human diseases, including PD.”
+The announcement comes less than a week after Herantis Pharma announced €3.6m in funding from Parkinson’s UK’s Virtual Biotech programme and the Michael J. Fox Foundation to finance its early-stage clinical trial to evaluate the tolerability and safety of HER-096 in PD and its ongoing biomarker project.
+
+title: Study reveals mobile phone data can help map the spread of pathogens
+
+metadata: 
+by
+Jen Brogan
+|
+5th Jul 2024
+|
+News
+
+content: 
+A study, published in Nature, has revealed a new way to map the spread and evolution of pathogens, as well as their response to vaccines and antibiotics, using anonymised mobile phone data, to help predict and prevent future outbreaks.
+The study involved researchers from the Wellcome Sanger Institute, the University of the Witwatersrand, the National Institute for Communicable Disease, South Africa and the University of Cambridge, as well as partners from the Global Pneumococcal Sequencing project.
+Infectious diseases, including tuberculosis, HIV and COVID-19, have multiple strains or variants that circulate simultaneously.
+The leading cause of pneumonia, meningitis and sepsis worldwide, the bacterium Streptococcus pneumoniae (pneumococcus) has over 100 types and 900 genetic strains globally.
+Researchers integrated genomic data from 6,910 pneumococcus samples collected in South Africa between 2000 and 2014 with anonymised human travel patterns collected by Meta2 using mobile phone data to see how the bacteria could move between regions and evolve over time.
+Using computational models, the team found that pneumococcal strains take roughly 50 years to fully combine throughout South Africa’s populations, largely due to localised human movement patterns.
+Despite the pneumococcal vaccine in 2009 against certain types of bacteria reducing the number of cases caused by those types, other non-targeted strains of these bacteria gained a 68% competitive advantage, as well as an increase in becoming resistant to antibiotics, including penicillin, suggesting that the vaccine-linked protection against antibiotic resistance is temporary.
+According to the World Health Organization, antimicrobial resistance is one of the top ten global public health threats facing humanity. It occurs when bacteria, fungi and parasites change and adapt to antibiotics over time.
+The new research could help to improve vaccine development when targeting the most harmful strains of bacteria and “could be applied to other regions and pathogens to better understand and predict pathogen spread in the context of drug resistance and vaccine effectiveness,” said the first author of the study, Dr Sophie Belman, former PhD student at the Wellcome Sanger Institute.
+
+title: NeuroSense Therapeutics shares positive results of lead candidate in ALS
+
+metadata: 
+by
+Jen Brogan
+|
+5th Jul 2024
+|
+News
+
+content: 
+NeuroSense Therapeutics has announced positive mid-stage results of its lead drug candidate, PrimeC, in people living with amyotrophic lateral sclerosis (ALS).
+The phase 2b PARADIGM study has been evaluating PrimeC, a fixed-dose combination of two US Food and Drug Administration (FDA)-approved drugs, Bayer’s ciprofloxacin, a well-known antibiotic, and Pfizer’s Celebrex (celecoxib), a COX inhibitor used to treat inflammation, in 68 people living with the neurodegenerative disease in Canada, Italy and Israel.
+Affecting more than 200,000 people globally, ALS is a neurological disorder that affects the motor neurons, the nerve cells in the brain and the spinal cord that control voluntary muscle movement and breathing.
+Previously granted Orphan Drug Designation by the FDA and the European Medicines Agency, PrimeC is designed to synergistically target several key mechanisms of ALS that contribute to motor neuron degeneration, inflammation, iron accumulation and impaired ribonucleic acid regulation to potentially inhibit the progression of ALS.
+Results from the study showed that PrimeC demonstrated a significant improvement in the rate of decline of ALS Functional Rating Scale-Revised (ALSFRS-R) scores and survival rates in patients compared to placebo.
+In addition, PrimeC-treated patients demonstrated better survival than those initially on placebo by 43% at 12 months, as well as a 63% improvement in the survival rate of participants compared to placebo.
+“These exciting long-term results demonstrate how study participants experienced more slowing of progression over time with PrimeC as measured against ALSFRS-R, which is the current gold-standard scale used in ALS drug development,” said Merit Cudkowicz, chair of neurology and director of the Sean M. Healey and AMG Center for ALS, Massachusetts General Hospital.
+Vivian Drory, head of the ALS clinic, Tel-Aviv Sourasky Medical Center, commented: “The promising results… highlight the significant potential of PrimeC as a disease-modifying drug for ALS [and]… underscore the importance of early intervention, which can lead to more substantial benefits and provide valuable insights that will inform the design of the company’s phase 3 study, increasing the likelihood of success.”
+
+title: Study reveals genetic mutations associated with aggressive prostate cancer
+
+metadata: 
+by
+Jen Brogan
+|
+4th Jul 2024
+|
+News
+
+content: 
+Scientists from the Institute of Cancer Research (ICR) have revealed new inherited genetic mutations in a long-term study that are associated with aggressive prostate cancer.
+Published in the European Urology Oncology, findings from the UK Genetic Prostate Cancer Study (UKGPCS ) could help clinicians identify certain prostate cancer patients who have an increased risk of experiencing rapid progression of the disease.
+Currently the most common cancer in males in the UK, prostate cancer is responsible for around 55,100 new cases every year.
+Aggressive prostate cancer accounts for up to 15% of all prostate cancer diagnoses.
+Utilising data from the ongoing UKGPCS as well as six substudies that sequenced the same ten candidates in participant samples, researchers carried out the analysis, which included 6,805 prostate cancer cases, of which 3,548 were aggressive.
+The team investigated germline mutations that occur in an egg or sperm from a patient and affect every cell in the individual’s body.
+Focusing on a genetic change called a putative loss of function mutation, which prevents the production or activation of the protein that the affected gene encodes, researchers looked for associations between aggressive disease – prostate cancer which has spread, reached a certain stage or grade, or been fatal.
+Researchers found putative loss of function mutations in four genes: ATM, MLH1, MSH2 and NBN, which were associated with aggressive prostate cancer, and also confirmed the link between mutations in BRCA2 and prostate cancer aggression, which had previously been identified.
+Ros Eeles, professor of oncogenentics, ICR, who leads the UKGPCS, commented: “Our work has confirmed that people who inherit a loss of function mutation in ATM, BRCA2, MLH1, MSH2 and NBN have the highest risk of aggressive forms of prostate cancer.
+“We now need to… see whether we can find a way to determine which patients will need urgent treatment and which are candidates for active surveillance.”
+
+title: Herantis Pharma granted €3.6m to assess treatment for Parkinson’s disease
+
+metadata: 
+by
+Jen Brogan
+|
+4th Jul 2024
+|
+News
+
+content: 
+Herantis Pharma has been awarded €3.6m in funding from Parkinson’s UK’s Virtual Biotech programme and the Michael J. Fox Foundation to finance its early-stage clinical trial in Parkinson’s disease (PD) and its ongoing biomarker project.
+The phase 1b clinical trial is evaluating the tolerability and safety of HER-096 in PD patients and collecting exploratory biomarker data for future clinical trials.
+Affecting around 153,000 people in the UK, PD is a progressive neurological condition that damages parts of the brain over time, causing tremors, slow movement and stiff and inflexible muscles.
+Previously tested in a study involving 60 healthy participants, HER-096 has been shown to be safe with no serious side effects.
+The new trial being carried out in Finland aims to test whether regular injections of HER-096 are safe in 24 people with PD, compared to placebo, twice a week for four weeks, while being monitored for any side effects.
+The new drug has similar properties to Cerebral Dopamine Neurotrophic Factor, a large protein that helps damaged dopamine cells survive and recover, and aims to protect and restore the dopamine-producing brain cells that are lost in PD.
+Researchers will collect data from the study to identify the best dosage to use to progress in larger clinical studies, as well as analyse blood samples and fluid collected by lumbar punctures to find evidence of whether the treatment is having a positive effect on brain cells.
+Herantis’ chief executive officer, Antti Vuolanto, commented: “This external validation of Herantis’ science recognises the potential of HER-096 as a promising drug candidate for treatment of PD.”
+If successful, HER-096 could offer patients with PD a less invasive treatment to recover dopamine-producing brain cells that get destroyed by the disease.
+“Disease-modifying treatments that can meaningfully slow the progression of PD are a desperate unmet need for the millions living with this devastating condition,” explained Dr Arthur Roach, director of Parkinson’s Virtual Biotech, Parkinson’s UK.
+
+title: Study reveals cardiovascular health could be biggest risk factor for dementia
+
+metadata: 
+by
+Jen Brogan
+|
+3rd Jul 2024
+|
+News
+
+content: 
+Researchers from University College London (UCL) have revealed that cardiovascular health could be the biggest risk factor associated with future dementia.
+Published in the Lancet Public Health, the study was funded by the National Institute for Health and Care Research’s Three Schools’ Dementia Research Programme.
+Estimated to affect 944,000 people in the UK, dementia is a general term for the impaired ability to remember, think, or make decisions that affects everyday life.
+The most prevalent dementias include Alzheimer’s disease, vascular dementia, Lewy body dementia and frontotemporal dementia.
+Researchers analysed and extracted data from 27 papers involving people with dementia worldwide, with data collected between 1947 and 2015 and the latest paper published in 2020.
+The extracted information from each paper about dementia risk factors was then used to calculate what proportion of dementia cases were attributable to each one over time.
+Despite dementia being known to develop because of a combination of both genetic and environmental factors such as hypertension, obesity, diabetes, education and smoking, researchers found that having less education and smoking had become less common over time and was associated with a decline in dementia rates.
+In comparison, the team found that rates of obesity and diabetes have increased over time, as has their contribution to dementia risk.
+Researchers also highlighted that hypertension remained the greatest dementia risk factor in most of the studies.
+Commenting on the results, lead author Dr Naaheed Mukadam, UCL Psychiatry, said: “These patterns suggest that population-level interventions could significantly impact the occurrence of dementia risk factors, and governments should consider implementing schemes such as worldwide policies of education and restrictions on smoking.
+“[These] cardiovascular risk factors… deserve more targeted action for future dementia prevention efforts.”
+Most recently, several dementia organisations collaborated to create a new manifesto for dementia ahead of the upcoming 2024 general election (4 July), calling on the next UK government to make dementia a key health priority.
+
+title: Study finds headache drug could prevent overuse of acute migraine medications
+
+metadata: 
+by
+Jen Brogan
+|
+3rd Jul 2024
+|
+News
+
+content: 
+A study led by researchers at King’s College London (KCL) and funded by AbbVie has revealed that a headache drug helps to prevent the overuse of acute migraine medication.
+Published in Neurology, AbbVie’s Qulipta (atogepant) was shown to be effective in decreasing migraine days in adults living with chronic migraine.
+Estimated to affect up to 2.2% of the global population, chronic migraine is a debilitating neurological disease where people regularly experience at least 15 days a month of headaches.
+Most often, headaches can be intensified by the overuse of acute migraine medications such as triptans, ergots and simple analgesics, leading to worse pain relief outcomes over a 24-hour period.
+Funded by AbbVie, the study assessed the efficacy of Qulipta in preventing chronic migraine in patients who met the criteria for acute medicine overuse as well as those who did not.
+Patients were randomised into one of three groups: a 30mg Qulipta twice daily group, a 60mg Qulipta once daily group and a placebo control group.
+After three months of self-reporting the regularity of their migraine, researchers found that nearly 50% of patients in the overused medication 30mg group and over 41% in the 60mg group saw an over 50% reduction in the number of days they experienced migraines in a month, compared to nearly 25% who received placebo in addition to their current medication.
+In patients who did not overuse their medication, over 39% of the 30mg group and nearly 40% of the 60mg group achieved a more than 50% reduction compared to nearly 29% in the placebo arm.
+Study lead author Peter Goadsby, professor of neurology, KCL’s Institute of Psychiatry, Psychology and Neuroscience, commented: “Based on our findings, treatment with [Qulipta] could potentially decrease the risk of developing rebound headaches by reducing the use of pain medications and could lead to an improved quality of life for those living with migraine.”
+Researchers plan to conduct further studies to assess the long-term efficacy and safety of Qulipta.
+
+title: Researchers find whole genome sequencing improves care for paediatric cancer
+
+metadata: 
+by
+Jen Brogan
+|
+2nd Jul 2024
+|
+News
+
+content: 
+Researchers from the Wellcome Sanger Institute, Cambridge University Hospitals NHS Trust, Great Ormond Street Hospital and the University of Cambridge have revealed that whole genome sequencing (WGS) can improve the clinical care of children with cancer.
+Published in Nature Medicine, the study showed that cutting-edge genomic testing could improve the management of care in real-time while providing more benefits compared to all other current tests combined.
+Every year, around 3,755 young people are diagnosed with cancer in the UK, with some of the most prevalent childhood cancers including lymphoma, muscle or bone cancers, neuroblastoma and leukaemia, which is the most commonly diagnosed cancer in children.
+WGS is a single test that provides a complete readout of the tumour’s entire genetic code while identifying every single cancer-causing mutation.
+Researchers, for the first time, assessed the impact of using WGS in current NHS practice through the NHS Genomic Medicine Service in 281 children with suspected cancer across two children’s cancer centres for solid cancer and leukaemia in England.
+After analysing the clinical and diagnostic information, the team found that cancer sequencing provided new insights that improved the immediate clinical care of 7% of children, along with providing the benefits of all current standard tests.
+In addition, genome sequencing provided additional information, which helped clinicians better understand the tumours of individual children in 29% of cases and informed future management.
+Researchers concluded that WGS provides additional, relevant data about childhood cancer and can reduce the number of tests required, which researchers suggest would be useful for children impacted by cancer by replacing multiple tests that the NHS currently uses if shown to be economically viable.
+Dr Jack Bartram, senior author, Great Ormond Street Hospital NHS Foundation Trust and the North Thames Genomic Medicine Service, said: “We hope this research really highlights why WGS should be delivered as part of routine clinical care to all children with suspected cancer.”
+
+title: Researchers awarded £1.5m for national dementia inequalities network
+
+metadata: 
+by
+Jen Brogan
+|
+11th Jul 2024
+|
+News
+
+content: 
+Dementia researchers from the University of Liverpool have been awarded £1.5m to establish the first-ever national network for dementia inequalities in diagnosis and care.
+The new network is just one of four dementia networks that have benefited from £5.5m funding from the Alzheimer’s Society, the Economic and Social Research Council (ESRC) and the National Institute for Health and Care Research (NIHR).
+Affecting more than 944,000 people in the UK, dementia is a neurodegenerative condition that affects the ability to remember, think or make decisions in everyday life.
+For those living with the condition, as well as their unpaid carers, many inequalities can often be faced when accessing care and obtaining an assessment and diagnosis.
+The University of Liverpool’s Institute of Population Health’s senior research fellow, Dr Clarissa Giebel, will lead the network in collaboration with Dame Louise Robinson, regius professor of ageing, Newcastle University, to unite a network of people with academic, professional and lived experience and expertise in dementia.
+Liverpool’s ESRC Equalities in Dementia (EquaDem) Network Plus aims to develop solutions to combat challenges in dementia diagnosis and care and to impact clinical and social care practice.
+By creating a community of research and practice that comprises seven universities, two national dementia charities, health and social care professionals and lived experts, and the University College London-based NIHR-funded ‘Dementia Researcher’, the network aims to identify solutions to inequalities linked to knowledge mobilisation internships and pilot projects as part of a wider strategy to communicate research findings to a range of audiences and policymakers who will focus on implementing their recommendations.
+Giebel commented: “We are already working regionally to bring together opinions, knowledge and voices to address these inequalities and I’m delighted that we can now do this nationally.”
+“This network grant provides a unique opportunity to focus both on co-developing solutions with the people who experience these and also to mentor and support our next generation of dementia care researchers,” said Robinson.
+
+title: New policy review reveals ten cancer challenges facing new UK government
+
+metadata: 
+by
+Jen Brogan
+|
+11th Jul 2024
+|
+News
+
+content: 
+A new policy review produced by cancer doctors and experts from across the UK, including King’s College London (KCL), has revealed the ten biggest cancer challenges facing the new UK government.
+Published in the Lancet Oncology, the review highlights the time-critical issues impacting the delivery of cancer care services by the NHS, which should be urgently addressed via a comprehensive national cancer control plan.
+It is estimated that there are more than three million people living in the UK with cancer, according to Macmillan Cancer Support, with breast cancer being the most prevalent, accounting for more than 55,000 people.
+The authors said that the NHS in the UK is behind other countries and, if not prioritised, could add additional strain to the healthcare system, widen social inequality and weaken economic recovery.
+The review highlighted several ongoing failures in reducing cancer survival inequalities, warned of treatment delays, and warned that novel solutions such as new diagnostic tests have been identified as resolutions to the cancer crisis; however, the paper makes clear that “none address the fundamental issues of cancer as a systems problem”.
+To tackle these challenges, experts established several recommendations to improve the survival, quality of life and experience of cancer patients in the UK.
+The policy recommendations include tackling social inequalities in access and outcomes of cancer by creating an NHS task force to inform policy solutions; identifying spare capacity via modelling, creating governance for the use of regional capacity, and testing operational interventions to speed up processes such as waiting time to reduce the cancer backlog; expanding national audits across the UK; and researching how hospitals and professionals can drive change to tackle variation in cancer quality across the NHS.
+Professional Richard Sullivan, Institute of Cancer Policy, commented: “A new national cancer control plan will need to take a whole-system approach, integrating solutions for critical areas such as workforce, service quality and societal equity.”
+
+title: UK DRI and NHS collaborate on digitally enabled dementia care platform
+
+metadata: 
+by
+Jen Brogan
+|
+10th Jul 2024
+|
+News
+
+content: 
+The UK Dementia Research Institute (UK DRI), in collaboration with the NHS, aims to conduct a new two-year study to prepare its digitally-enabled dementia care platform, Minder, to be integrated into health and social care services.
+Funded by LifeArc, the study will enable digital care for people living with dementia while empowering the NHS and social care services to provide care of the highest quality in patients’ own homes.
+Estimated to affect 944,000 people in the UK, dementia is a general term for the impaired ability to remember, think, or make decisions that affects everyday life.
+Developed by the UK DRI Centre for Care Research and Technology, Minder is a home monitoring platform that harnesses artificial intelligence (AI) and digital technology and is integrated with public services to detect common problems, such as infections, earlier to prevent hospitalisations for people living with dementia.
+Currently, around one in five hospitalisations of people living with the neurological condition are due to potentially preventable causes, including falls, neuropsychiatric problems or infection.
+By detecting and addressing these problems early, hospital admissions can be reduced, providing benefits for both people with dementia and public services.
+Following a successful pilot phase, the new study will prepare Minder for integration with existing NHS services, develop a new protocol for linking, data sharing and assessing the clinical, economic and patient benefits of the model, which is due to finish in April 2026.
+Professor David Sharp, centre director, UK DRI Centre for Care Research and Technology, commented: “We’re now ready to put our innovative model to the test on a larger scale…. [to] enable more people with dementia to receive personalised, in-home support.”
+LifeArc’s chief scientific officer, Dr Dave Powell, said: “AI and advanced digital platforms have the potential to revolutionise dementia care [and] the Minder platform will play a key role in allowing people with dementia to live independently in their own homes for longer.”
+
+title: Institutions to lead £1.7m-funded network to support people at risk of dementia
+
+metadata: 
+by
+Jen Brogan
+|
+10th Jul 2024
+|
+News
+
+content: 
+University College London (UCL) and the University of Exeter are set to co-lead a new national Dementia Network Plus initiative supported by more than £1.7m in funding.
+The Sustainable Prevention, Innovation and Involvement NETwork (SPIINNET) will help to reduce dementia risk and improve people’s experiences of living with dementia by supporting new projects and engaging with communities.
+Affecting more than 944,000 people in the UK, dementia is a neurodegenerative condition that affects the ability to remember, think or make decisions in everyday life.
+The new network will combine researchers from 14 universities with specialist organisations, including King’s College London, the University of Plymouth, Bangor, Cardiff Metropolitan, East Anglia, Northampton, Nottingham, Oxford, Southampton, Stirling, Strathclyde, Sunderland and Worcestershire.
+SPIINNET aims to utilise existing networks and umbrella organisations to deliver a programme to create connections between the experience, knowledge and resources of people across the network while improving the quality of experience for people with dementia, families, communities, the NHS and social care.
+It will include workshops to design research projects, training events, funding innovative ideas, meetings to raise awareness about dementia and prevention, and annual conferences to share learning.
+The University of Exeter’s professor Chris Fox, network co-lead, commented: “This funding will enable our new [network] to action the latest research both to prevent dementia and to work with people who have the condition to help them access early support and live the best lives possible.”
+Network co-lead, Dr Georgina Charlesworth, UCL psychology and language sciences, said: “I hope that our work over the next four years will make a meaningful contribution to brain health, especially for those in at-risk or under-represented communities.”
+Last month, the Alzheimer’s Society, Dementia UK, Alzheimer’s Research UK, the UK Dementia Research Institute and Alzheimer Scotland collaborated to create a new manifesto for dementia, calling on the new UK government to make dementia a key health priority in the UK.
+
+title: Francis Crick and ICL spinout raises £90m to clinically develop cancer treatments
+
+metadata: 
+by
+Jen Brogan
+|
+9th Jul 2024
+|
+News
+
+content: 
+The Francis Crick Institute and Imperial College London (ICL) cancer therapy spinout, Myricx Bio, has raised £90m in series A financing to advance its novel cancer treatments into clinical development.
+The investment will help to develop the company’s therapies to treat a range of different tumour types, including breast, lung and colorectal cancer, to advance into clinical testing.
+Currently the largest series A round to ever be raised by an EU academic biotech spinout, the round was co-led by life science investors Novo Holdings and Abingworth, with additional investors including British Patient Capital, Cancer Research Horizons and Eli Lilly and Company, as well as founding investors Brandon Capital and Sofinnova Partners.
+The spinout is focused on the discovery and development of a novel class of payloads for antibody-drug conjugates (ADCs), which involves antibodies that bind to the surface of certain tumour types to deliver a drug to its target.
+The drugs selectivity inhibit an enzyme known as N-myristoyltransferase, which works to modify proteins and plays a key role in multiple specific processes cancer cells use to stay alive.
+“Antibodies have become a mature therapeutic modality,” explained Professor Ed Tate, co-founder of Myricx, GSK chair in chemical biology, department of chemistry, ICL and satellite group leader, the Crick.
+“It hits one specific point in cell biology that links into dozens of different pathways, many of which are critical for cancer cells compared to normal cells,” Tate added. “And, where most ADC payloads have an immediate effect, our drug takes up to several days before it starts to kill cancer cells, giving normal tissues time to recover.”
+So far, preclinical investigations of the inhibitors have shown complete and durable tumour regressions, which were well-tolerated, in several animal models of solid cancers and patient-derived organoid models.
+With these potentially novel treatments, Myricx hopes that they can more selectively affect cancer cells without toxic side effects over a longer duration of time while targeting dormant or senescent cells, avoiding cancer recurrence.
+
+title: SMC accepts Boehringer/Lilly’s Jardiance for CKD within NHS Scotland
+
+metadata: 
+by
+Jen Brogan
+|
+9th Jul 2024
+|
+News
+
+content: 
+The Scottish Medicines Consortium (SMC) has accepted Boehringer Ingelheim and Eli Lilly’s Jardiance (empagliflozin) for use within NHS Scotland to treat adult patients living with chronic kidney disease (CKD).
+The regulator has indicated the therapy for adult CKD patients who are receiving optimised standard care, including angiotensin converting enzyme inhibitors or angiotensin 2 receptor blockers, with either an estimated glomerular filtration rate (eGFR) of 20ml/min/1.73m2 up to 45ml/min/1.73m2 or an eGFR of 45ml/min/1.73m2 up to 90ml/min/1.73m2.
+Additionally , patients in Scotland in the 45ml to 80ml group will now be eligible to receive Jardiance if they have a urine albumin-to-creatine ratio of 22.6mg/mmol or more or type 2 diabetes (T2D) mellitus.
+Affecting nearly 850 million people worldwide, CKD is a serious, progressive condition that is caused by decreased kidney function and is often triggered by diabetes, hypertension and glomerulonephritis.
+Already approved in the EU and US, Jardiance is an oral, once-daily, highly selective sodium-glucose cotransporter 2 inhibitor and is the first ever T2D medicine to include cardiovascular death risk reduction in its label across several countries.
+The SMC’s decision was based on results from the randomised, double-blind phase 3 EMPA-KIDNEY study, which assessed Jardiance in patients with CKD in addition to standard of care.
+Published in the New England Journal of Medicine, results showed that treatment with Jardiance in addition to standard of care significantly reduced the risk of first occurrence of the progression of kidney disease or death from cardiovascular causes compared to standard of care alone.
+In March 2022, the companies announced that the phase 3 study would stop early due to clear positive efficacy results in people with CKD.
+Commenting at the time, Jeff Emmick, vice president, product development, Lilly, said: “The early stop of the trial is a tremendous step toward our goal of improving the lives of adults living with kidney disease.”
+
+title: Coloplast launches digital leakage notification system Heylo for stoma patients
+
+metadata: 
+by
+Jen Brogan
+|
+8th Jul 2024
+|
+News
+
+content: 
+Coloplast has announced the launch of its world-first digital leakage notification system, Heylo, to benefit patients living with a stoma.
+The new system is now available through the NHS to help alleviate the physical and mental burden of leakage in patients living with a stoma, following an individual consultation and assessment of leakage anxiety.
+According to NHS data, more than 176,000 people in the UK are living with a stoma, an opening on the abdomen that can be connected to either the digestive or urinary system to remove waste from the body.
+The most common conditions that can result in stoma surgery include colorectal cancer, bladder cancer, ulcerative colitis, Crohn’s disease and accidental injury.
+For most patients, leakage of a stoma is currently the biggest challenge, with 92% of people worrying about leakage, impacting both their physical and mental well-being, while 54% are unable to sleep, 37% feel like they are not in control and 30% are limited in their work.
+The new system aims to tackle these challenges facing stoma patients by allowing users to track potential leakages, reducing anxiety and helping patients feel reassured, comfortable and in control.
+Used under most ostomy baseplates, Heylo works via a sensor layer that connects via Bluetooth to the user’s smartphone and an app. After attaching the device under the stoma, users can discreetly open the app and check the leakage status.
+Research has already shown that Heylo can reduce leakage incidents onto clothes by up to 82%, improving quality of life for patients.
+In addition, these alerts help to prevent skin problems for stoma patients, as well as reduce the need for avoidable medical appointments and the burden on healthcare professionals.
+Coloplast’s head of marketing: Heylo, Adrian Summerson, commented: “We understand that life with a stoma is not always easy. With the launch of Heylo in the UK… we are aiming to provide both an innovative solution and reassurance to the people who need it most.”
+
+title: Mission awarded $5.2m to advance potential Parkinson’s treatment
+
+metadata: 
+by
+Jen Brogan
+|
+8th Jul 2024
+|
+News
+
+content: 
+Mission Therapeutics has been awarded $5.2m in funding from Parkinson’s UK’s Virtual Biotech programme and the Michael J. Fox Foundation to advance a potential treatment for early-stage Parkinson’s disease (PD).
+The funding will help support the company’s ongoing phase 1 programme, which consists of a 28-day dosing of its small drug molecule, MTX325, to assess its safety, tolerability, pharmacokinetic profile and central nervous system penetration in patients living with the neurodegenerative condition.
+Affecting around 153,000 people in the UK, PD is a progressive neurological condition that damages parts of the brain over time, causing tremors, slow movement and stiff and inflexible muscles.
+Mission’s MTX325 is a potent, selective, small-molecule brain-penetrant USP30 inhibitor that works to protect dopamine-producing neurons by improving mitochondrial quality and function.
+Previous research has already shown evidence that a build-up of dysfunctional mitochondria in cells is linked to a variety of diseases, including PD, kidney disease, heart failure, idiopathic pulmonary fibrosis and Duchenne’s muscular dystrophy.
+In December, researchers from Cambridge and Harvard University, along with Mission, showed strong experimental evidence that supported MTX325 in PD by targeting USP30 in a study published in Nature Communications.
+The phase 1 in-human clinical trial of MTX325 began in March and has already produced positive results. Multiple ascending doses are set to begin in early 2025 to evaluate MTX325 as well as observe its effects on relevant mechanisms and disease biology biomarkers.
+Anker Lundemose, chief executive officer, Mission, commented: “This significant grant… underlines the huge potential of MTX325 as a disease-modifying treatment for this terrible neurodegenerative illness [and] represents a major endorsement of our mitophagy strategy in human diseases, including PD.”
+The announcement comes less than a week after Herantis Pharma announced €3.6m in funding from Parkinson’s UK’s Virtual Biotech programme and the Michael J. Fox Foundation to finance its early-stage clinical trial to evaluate the tolerability and safety of HER-096 in PD and its ongoing biomarker project.
+
+title: Study reveals mobile phone data can help map the spread of pathogens
+
+metadata: 
+by
+Jen Brogan
+|
+5th Jul 2024
+|
+News
+
+content: 
+A study, published in Nature, has revealed a new way to map the spread and evolution of pathogens, as well as their response to vaccines and antibiotics, using anonymised mobile phone data, to help predict and prevent future outbreaks.
+The study involved researchers from the Wellcome Sanger Institute, the University of the Witwatersrand, the National Institute for Communicable Disease, South Africa and the University of Cambridge, as well as partners from the Global Pneumococcal Sequencing project.
+Infectious diseases, including tuberculosis, HIV and COVID-19, have multiple strains or variants that circulate simultaneously.
+The leading cause of pneumonia, meningitis and sepsis worldwide, the bacterium Streptococcus pneumoniae (pneumococcus) has over 100 types and 900 genetic strains globally.
+Researchers integrated genomic data from 6,910 pneumococcus samples collected in South Africa between 2000 and 2014 with anonymised human travel patterns collected by Meta2 using mobile phone data to see how the bacteria could move between regions and evolve over time.
+Using computational models, the team found that pneumococcal strains take roughly 50 years to fully combine throughout South Africa’s populations, largely due to localised human movement patterns.
+Despite the pneumococcal vaccine in 2009 against certain types of bacteria reducing the number of cases caused by those types, other non-targeted strains of these bacteria gained a 68% competitive advantage, as well as an increase in becoming resistant to antibiotics, including penicillin, suggesting that the vaccine-linked protection against antibiotic resistance is temporary.
+According to the World Health Organization, antimicrobial resistance is one of the top ten global public health threats facing humanity. It occurs when bacteria, fungi and parasites change and adapt to antibiotics over time.
+The new research could help to improve vaccine development when targeting the most harmful strains of bacteria and “could be applied to other regions and pathogens to better understand and predict pathogen spread in the context of drug resistance and vaccine effectiveness,” said the first author of the study, Dr Sophie Belman, former PhD student at the Wellcome Sanger Institute.
+
+title: NeuroSense Therapeutics shares positive results of lead candidate in ALS
+
+metadata: 
+by
+Jen Brogan
+|
+5th Jul 2024
+|
+News
+
+content: 
+NeuroSense Therapeutics has announced positive mid-stage results of its lead drug candidate, PrimeC, in people living with amyotrophic lateral sclerosis (ALS).
+The phase 2b PARADIGM study has been evaluating PrimeC, a fixed-dose combination of two US Food and Drug Administration (FDA)-approved drugs, Bayer’s ciprofloxacin, a well-known antibiotic, and Pfizer’s Celebrex (celecoxib), a COX inhibitor used to treat inflammation, in 68 people living with the neurodegenerative disease in Canada, Italy and Israel.
+Affecting more than 200,000 people globally, ALS is a neurological disorder that affects the motor neurons, the nerve cells in the brain and the spinal cord that control voluntary muscle movement and breathing.
+Previously granted Orphan Drug Designation by the FDA and the European Medicines Agency, PrimeC is designed to synergistically target several key mechanisms of ALS that contribute to motor neuron degeneration, inflammation, iron accumulation and impaired ribonucleic acid regulation to potentially inhibit the progression of ALS.
+Results from the study showed that PrimeC demonstrated a significant improvement in the rate of decline of ALS Functional Rating Scale-Revised (ALSFRS-R) scores and survival rates in patients compared to placebo.
+In addition, PrimeC-treated patients demonstrated better survival than those initially on placebo by 43% at 12 months, as well as a 63% improvement in the survival rate of participants compared to placebo.
+“These exciting long-term results demonstrate how study participants experienced more slowing of progression over time with PrimeC as measured against ALSFRS-R, which is the current gold-standard scale used in ALS drug development,” said Merit Cudkowicz, chair of neurology and director of the Sean M. Healey and AMG Center for ALS, Massachusetts General Hospital.
+Vivian Drory, head of the ALS clinic, Tel-Aviv Sourasky Medical Center, commented: “The promising results… highlight the significant potential of PrimeC as a disease-modifying drug for ALS [and]… underscore the importance of early intervention, which can lead to more substantial benefits and provide valuable insights that will inform the design of the company’s phase 3 study, increasing the likelihood of success.”
+
+title: Study reveals genetic mutations associated with aggressive prostate cancer
+
+metadata: 
+by
+Jen Brogan
+|
+4th Jul 2024
+|
+News
+
+content: 
+Scientists from the Institute of Cancer Research (ICR) have revealed new inherited genetic mutations in a long-term study that are associated with aggressive prostate cancer.
+Published in the European Urology Oncology, findings from the UK Genetic Prostate Cancer Study (UKGPCS ) could help clinicians identify certain prostate cancer patients who have an increased risk of experiencing rapid progression of the disease.
+Currently the most common cancer in males in the UK, prostate cancer is responsible for around 55,100 new cases every year.
+Aggressive prostate cancer accounts for up to 15% of all prostate cancer diagnoses.
+Utilising data from the ongoing UKGPCS as well as six substudies that sequenced the same ten candidates in participant samples, researchers carried out the analysis, which included 6,805 prostate cancer cases, of which 3,548 were aggressive.
+The team investigated germline mutations that occur in an egg or sperm from a patient and affect every cell in the individual’s body.
+Focusing on a genetic change called a putative loss of function mutation, which prevents the production or activation of the protein that the affected gene encodes, researchers looked for associations between aggressive disease – prostate cancer which has spread, reached a certain stage or grade, or been fatal.
+Researchers found putative loss of function mutations in four genes: ATM, MLH1, MSH2 and NBN, which were associated with aggressive prostate cancer, and also confirmed the link between mutations in BRCA2 and prostate cancer aggression, which had previously been identified.
+Ros Eeles, professor of oncogenentics, ICR, who leads the UKGPCS, commented: “Our work has confirmed that people who inherit a loss of function mutation in ATM, BRCA2, MLH1, MSH2 and NBN have the highest risk of aggressive forms of prostate cancer.
+“We now need to… see whether we can find a way to determine which patients will need urgent treatment and which are candidates for active surveillance.”
+
+title: Herantis Pharma granted €3.6m to assess treatment for Parkinson’s disease
+
+metadata: 
+by
+Jen Brogan
+|
+4th Jul 2024
+|
+News
+
+content: 
+Herantis Pharma has been awarded €3.6m in funding from Parkinson’s UK’s Virtual Biotech programme and the Michael J. Fox Foundation to finance its early-stage clinical trial in Parkinson’s disease (PD) and its ongoing biomarker project.
+The phase 1b clinical trial is evaluating the tolerability and safety of HER-096 in PD patients and collecting exploratory biomarker data for future clinical trials.
+Affecting around 153,000 people in the UK, PD is a progressive neurological condition that damages parts of the brain over time, causing tremors, slow movement and stiff and inflexible muscles.
+Previously tested in a study involving 60 healthy participants, HER-096 has been shown to be safe with no serious side effects.
+The new trial being carried out in Finland aims to test whether regular injections of HER-096 are safe in 24 people with PD, compared to placebo, twice a week for four weeks, while being monitored for any side effects.
+The new drug has similar properties to Cerebral Dopamine Neurotrophic Factor, a large protein that helps damaged dopamine cells survive and recover, and aims to protect and restore the dopamine-producing brain cells that are lost in PD.
+Researchers will collect data from the study to identify the best dosage to use to progress in larger clinical studies, as well as analyse blood samples and fluid collected by lumbar punctures to find evidence of whether the treatment is having a positive effect on brain cells.
+Herantis’ chief executive officer, Antti Vuolanto, commented: “This external validation of Herantis’ science recognises the potential of HER-096 as a promising drug candidate for treatment of PD.”
+If successful, HER-096 could offer patients with PD a less invasive treatment to recover dopamine-producing brain cells that get destroyed by the disease.
+“Disease-modifying treatments that can meaningfully slow the progression of PD are a desperate unmet need for the millions living with this devastating condition,” explained Dr Arthur Roach, director of Parkinson’s Virtual Biotech, Parkinson’s UK.
+
+title: Study reveals cardiovascular health could be biggest risk factor for dementia
+
+metadata: 
+by
+Jen Brogan
+|
+3rd Jul 2024
+|
+News
+
+content: 
+Researchers from University College London (UCL) have revealed that cardiovascular health could be the biggest risk factor associated with future dementia.
+Published in the Lancet Public Health, the study was funded by the National Institute for Health and Care Research’s Three Schools’ Dementia Research Programme.
+Estimated to affect 944,000 people in the UK, dementia is a general term for the impaired ability to remember, think, or make decisions that affects everyday life.
+The most prevalent dementias include Alzheimer’s disease, vascular dementia, Lewy body dementia and frontotemporal dementia.
+Researchers analysed and extracted data from 27 papers involving people with dementia worldwide, with data collected between 1947 and 2015 and the latest paper published in 2020.
+The extracted information from each paper about dementia risk factors was then used to calculate what proportion of dementia cases were attributable to each one over time.
+Despite dementia being known to develop because of a combination of both genetic and environmental factors such as hypertension, obesity, diabetes, education and smoking, researchers found that having less education and smoking had become less common over time and was associated with a decline in dementia rates.
+In comparison, the team found that rates of obesity and diabetes have increased over time, as has their contribution to dementia risk.
+Researchers also highlighted that hypertension remained the greatest dementia risk factor in most of the studies.
+Commenting on the results, lead author Dr Naaheed Mukadam, UCL Psychiatry, said: “These patterns suggest that population-level interventions could significantly impact the occurrence of dementia risk factors, and governments should consider implementing schemes such as worldwide policies of education and restrictions on smoking.
+“[These] cardiovascular risk factors… deserve more targeted action for future dementia prevention efforts.”
+Most recently, several dementia organisations collaborated to create a new manifesto for dementia ahead of the upcoming 2024 general election (4 July), calling on the next UK government to make dementia a key health priority.
+
+title: Study finds headache drug could prevent overuse of acute migraine medications
+
+metadata: 
+by
+Jen Brogan
+|
+3rd Jul 2024
+|
+News
+
+content: 
+A study led by researchers at King’s College London (KCL) and funded by AbbVie has revealed that a headache drug helps to prevent the overuse of acute migraine medication.
+Published in Neurology, AbbVie’s Qulipta (atogepant) was shown to be effective in decreasing migraine days in adults living with chronic migraine.
+Estimated to affect up to 2.2% of the global population, chronic migraine is a debilitating neurological disease where people regularly experience at least 15 days a month of headaches.
+Most often, headaches can be intensified by the overuse of acute migraine medications such as triptans, ergots and simple analgesics, leading to worse pain relief outcomes over a 24-hour period.
+Funded by AbbVie, the study assessed the efficacy of Qulipta in preventing chronic migraine in patients who met the criteria for acute medicine overuse as well as those who did not.
+Patients were randomised into one of three groups: a 30mg Qulipta twice daily group, a 60mg Qulipta once daily group and a placebo control group.
+After three months of self-reporting the regularity of their migraine, researchers found that nearly 50% of patients in the overused medication 30mg group and over 41% in the 60mg group saw an over 50% reduction in the number of days they experienced migraines in a month, compared to nearly 25% who received placebo in addition to their current medication.
+In patients who did not overuse their medication, over 39% of the 30mg group and nearly 40% of the 60mg group achieved a more than 50% reduction compared to nearly 29% in the placebo arm.
+Study lead author Peter Goadsby, professor of neurology, KCL’s Institute of Psychiatry, Psychology and Neuroscience, commented: “Based on our findings, treatment with [Qulipta] could potentially decrease the risk of developing rebound headaches by reducing the use of pain medications and could lead to an improved quality of life for those living with migraine.”
+Researchers plan to conduct further studies to assess the long-term efficacy and safety of Qulipta.
+
+title: Researchers find whole genome sequencing improves care for paediatric cancer
+
+metadata: 
+by
+Jen Brogan
+|
+2nd Jul 2024
+|
+News
+
+content: 
+Researchers from the Wellcome Sanger Institute, Cambridge University Hospitals NHS Trust, Great Ormond Street Hospital and the University of Cambridge have revealed that whole genome sequencing (WGS) can improve the clinical care of children with cancer.
+Published in Nature Medicine, the study showed that cutting-edge genomic testing could improve the management of care in real-time while providing more benefits compared to all other current tests combined.
+Every year, around 3,755 young people are diagnosed with cancer in the UK, with some of the most prevalent childhood cancers including lymphoma, muscle or bone cancers, neuroblastoma and leukaemia, which is the most commonly diagnosed cancer in children.
+WGS is a single test that provides a complete readout of the tumour’s entire genetic code while identifying every single cancer-causing mutation.
+Researchers, for the first time, assessed the impact of using WGS in current NHS practice through the NHS Genomic Medicine Service in 281 children with suspected cancer across two children’s cancer centres for solid cancer and leukaemia in England.
+After analysing the clinical and diagnostic information, the team found that cancer sequencing provided new insights that improved the immediate clinical care of 7% of children, along with providing the benefits of all current standard tests.
+In addition, genome sequencing provided additional information, which helped clinicians better understand the tumours of individual children in 29% of cases and informed future management.
+Researchers concluded that WGS provides additional, relevant data about childhood cancer and can reduce the number of tests required, which researchers suggest would be useful for children impacted by cancer by replacing multiple tests that the NHS currently uses if shown to be economically viable.
+Dr Jack Bartram, senior author, Great Ormond Street Hospital NHS Foundation Trust and the North Thames Genomic Medicine Service, said: “We hope this research really highlights why WGS should be delivered as part of routine clinical care to all children with suspected cancer.”
+
+title: Female cancer survivors at low risk of developing obstetric complications
+
+metadata: 
+by
+Jen Brogan
+|
+2nd Jul 2024
+|
+News
+
+content: 
+Researchers from the Universities of Birmingham, Bristol and Edinburgh have revealed that the majority of women who have survived cancer are at low risk of developing obstetric complications.
+The study published in the Lancet Oncology was funded by Children with Cancer UK, the Brain Tumour Charity and the Academy of Medical Sciences.
+Currently the most prevalent cancer in the UK, breast cancer affects around 55,000 women every year.
+According to the World Health Organization, around 15% of all pregnant women will develop a potentially life-threatening obstetric complication, including pyrexia and sepsis intrapartum haemorrhage, in pregnancy and childbirth and some will require a major obstetrical intervention to survive.
+After analysing data from almost 100,000 female survivors of cancer who had been diagnosed between the ages of 15 and 39 years between 1971 and 2006, approximately 21,437 births had been recorded among 13,886 women who had survived cancer between 1997 and 2022, which was 32% lower than in the general population.
+In addition, among the 27 complications investigated, data from the study showed that most expectant mothers saw a low likelihood of developing a complication in pregnancy or during birth and other specific cancers, including bladder, kidney, cervix or ovary cancer, carried a low risk of multiple complications, while leukaemia, cervical and breast cancers showed an increased risk.
+Researchers have recommended that formal guidelines be introduced to ensure that cancer survivors can receive support and the results will help obstetricians identify those at higher risk of complications during pregnancy by offering enhanced monitoring and interventions to improve pregnancy outcomes.
+Dr Raoul Reulen, lead senior author of the paper, Institute of Applied Public Health, University of Birmingham, commented: “Our findings suggest that cancer survivors who didn’t have cervical cancer or leukaemia can feel reassured about their risks going into pregnancy, as they do not greatly differ from the risks in the general public for the majority of obstetric complications.”
+
+title: University of Liverpool launches new biotech spin-out company Galytx
+
+metadata: 
+by
+Jen Brogan
+|
+1st Jul 2024
+|
+News
+
+content: 
+The University of Liverpool has announced the launch of a new biotech spin-out company, Galytx, to develop novel therapeutic drugs to treat cancer and fibrotic diseases.
+The new company will focus on developing small molecular therapeutic drugs against a highly clinically molecular target, galectin-3, a carbohydrate-binding protein that has a close association with the pathogenesis, progression and morbidity of multiple fatal diseases, including cancer, fibrosis and inflammation.
+Professor Lu-Gang Yu, Institute of Systems, Molecular and Integrative Biology, University of Liverpool, has been leading research at the University of Liverpool and has recently identified several non-carbohydrate, wholly synthetic small molecular compounds as potent galectin-3 inhibitors that have shown huge potential to be developed as galectin-3-targeted novel therapeutic drugs for the treatment of fatal diseases.
+Yu said: “Galectin-3 is increasingly recognised as a multi-functional, multi-mode promoter in cancer as well as in fibrosis-associated organ failures such as hearts, lungs and kidneys” and provides “an opportunity of developing a new class of drugs to treat these fatal diseases”.
+Galytx will accelerate the therapeutic development of both clinical and pre-clinical compound inhibitors, including repurposed drugs, to address the significant unmet clinical need in these disease areas.
+In particular, its lead clinical asset, a repurposed drug, has a strong and well-established safety record in chronic oral use, allowing a fast-track clinical development pathway with the potential to be developed as injectable therapeutics for acute use.
+Dr Karen Sullivan, chief executive officer, Galytx, said: “Galytx is uniquely positioned to deliver the wide range of clinical benefits that we believe are possible by targeting galectin-3 in these disease areas that affect all of us.
+“Having previously approved drugs as part of our asset portfolio means that we will be able to deliver these benefits faster and with far less risk than our competitors.”
+
+title: ICL granted £150,000 to explore link between breast cancer and breastfeeding
+
+metadata: 
+by
+Jen Brogan
+|
+1st Jul 2024
+|
+News
+
+content: 
+Imperial College London (ICL) researchers have been awarded £150,715 by Breast Cancer Now to investigate the links between breast cancer and breastfeeding in women.
+Currently the most common cancer in the UK, breast cancer affects around 55,000 women every year and accounts for 15% of all cancer cases in the UK.
+The disease occurs when abnormal breast cells grow out of control and form tumours.
+Previous research has already shown that breastfeeding is linked to a lower risk of developing breast cancer. Data analysis has shown that the risk of developing the disease decreases by 4% for every 12 months of breastfeeding.
+Researchers have estimated that this is due to breastfeeding altering the balance of hormones in the body, protecting breast cells and making them less vulnerable to changes that cause cancer.
+In addition, ICL researchers previously found that breast milk sometimes contained cells with potentially cancer-causing changes in their DNA in women who had been breastfeeding for less than four months.
+Using breast milk samples donated by 300 women from the Breastmilk Epigenetics Cohort Study co-ordinated by the Human Milk Foundation, researchers intend to determine whether breastfeeding for longer periods of time removes these cancer-causing cells and whether factors, including weight, exercise or smoking, can be linked to their presence.
+Researchers will screen the samples for cancer-causing cells and will continue to collect samples every few months to detect any changes.
+Dr James Flanagan, reader in epigenetics, ICL, commented: “We believe that preventing breast cancer is the best way to reduce the number of deaths from the disease” and “we hope to use the knowledge from this study to prevent as many breast cancers as possible”.
+Dr Simon Vincent, director of research, support and influencing, Breast Cancer Now, said: “We’re delighted to fund more research in this area, as it will help us continue to improve the information and advice that we provide to women on breast cancer risk.”
+
+title: UK study reveals persistent challenges in heart health and cardiovascular diseases
+
+metadata: 
+by
+Jen Brogan
+|
+28th Jun 2024
+|
+News
+
+content: 
+A study conducted by European researchers from the University of Glasgow, the University of Oxford, KU Leuven and the University of Leicester has revealed the shifting trends and persistent challenges in heart health and cardiovascular disease (CVD) in the UK.
+Published in the BMJ, researchers analysed the electronic health records of 22 million people from the Clinical Practice Research Datalink, CPRD GOLD and Aurum.
+CVD affects around seven million people in the UK and is a significant cause of disability and death.
+Affecting around 2.3 million people in the UK, coronary heart disease is the most common form of heart and circulatory disease and occurs when coronary arteries become narrowed by a build-up of fatty material within their walls.
+In the last 20 years, the study found a 19% reduction in the overall incidence of heart-related disease, including significant reductions in heart attacks and stroke, between 2000 and 2019, with incidences dropping by around 30%.
+Despite this decrease, the study highlights an increase in diagnoses of other heart conditions such as irregular heartbeats, valve problems and blood clots, as well as a significant gap between the rich and poor: people living in deprived areas are nearly twice as likely to suffer from certain heart conditions compared to those in wealthier areas.
+Researchers said that the overall burden of heart disease remains high due to the rising incidence of other health conditions, leaving large segments of the population at risk, including young people and those living in economically disadvantaged areas, and suggest that more efforts are needed to better identify those at highest risk of developing CVD and how best to prevent it.
+Dr Nathalie Conrad, honorary research fellow, University of Glasgow, and lead author of the study, commented: “Our findings suggest that existing efforts have been successful in preventing [CVD], yet that other CVD increased in parallel.
+“We hope that these findings will help raise awareness to expand research and prevention efforts to include the broader spectrum of cardiovascular presentations and their consequences.”
+
+title: Parkinson’s UK awards ICL £100,000 to develop small drugs for Parkinson’s disease
+
+metadata: 
+by
+Jen Brogan
+|
+28th Jun 2024
+|
+News
+
+content: 
+Parkinson’s UK has awarded nearly £100,000 to researchers at Imperial College London (ICL) to develop a new drug for Parkinson’s disease (PD) through the charity’s drug accelerator award grant scheme.
+Researchers will use a computer-based programme to simulate good targets for new drugs to slow the progression of the neurological disease and improve the success of clinical trials.
+Affecting around 153,000 people in the UK, PD is a neurodegenerative condition in which parts of the brain become progressively damaged, causing problems such as shaking and stiffness.
+In the process of drug development, the more information that researchers have when planning a clinical trial, including simulating how a drug might work, the more likely it is to be successful when being trialled in people and compared to other available treatments.
+Using simulation, researchers aim to test the best way to target GPNMB, a protein that has been linked to PD. Previous research has shown that this protein could reduce damage to cells by preventing the spread of alpha-synuclein, a hallmark protein of PD.
+Previous research has already shown that alpha-synuclein can cause irreversible damage to brain cells in PD, ultimately leading to the progression and worsening of symptoms.
+Working with the UK’s Nucleic Acid Therapy Accelerator (NATA), the team is now working to develop small drugs known as antisense oligonucleotides and will test which can best reduce the activity of GPNMB most effectively to decide which drug has the best chance of success in a clinical trial.
+ICL’s lead researcher, professor Michael Johnson, commented: “A major problem with drug development is that half of all drugs will fail during clinical trials due to [a] lack of efficacy – eg the drugs don’t work despite extensive testing prior to clinical trials in people.
+“This award will fund us to work with… NATA to develop a new type of drug against GPNMB as a potential treatment for Parkinson’s.”
+
+title: New collaboration aims to research early mutations in rare blood disorder
+
+metadata: 
+by
+Jen Brogan
+|
+27th Jun 2024
+|
+News
+
+content: 
+A new collaboration between Newcastle University, the Wellcome Sanger Institute (Sanger) and the SKAN Research Trust (SKAN) aims to investigate early mutations in blood stem cells for a rare blood disorder.
+The research project aims to use advanced stem cell genomic analysis to explore cancer subtypes, such as Langerhans cell histiocytosis (LCH), examining the timestamp of genetic mutations that drive the condition and the presentation of its clinical symptoms.
+Responsible for around 50 new cases in the UK every year, LCH is a rare immune cell disorder that damages tissue or can cause lesions to form in one or more areas of the body.
+The disorder begins in LCH cells, a type of dendritic cell that usually helps the body fight infection and affects about one in 200,000 children up to the age of 15 in the UK.
+The two forms of the condition are: single-system LCH, which occurs in only one part of the body and requires minimal treatment, and multi-system LCH, which occurs in two or more parts of the body and most often requires chemotherapy or, in very rare cases, specific targeted therapy.
+Researchers believe that these mutations in LCH can contribute to various cancerous and non-cancerous conditions.
+As part of the collaboration, Newcastle University will work with leading LCH treating research centres globally to investigate LCH driven by different genetic mutations with SKAN as part of a large cohort study of Indian children.
+Newcastle University’s lead investigator, professor of haematology, Matthew Collin, commented: “For patients, it is tremendous that state-of-the-art approaches will be brought to bear on increasing our knowledge of how these disorders arise.”
+Ashok Soota, chairman and managing trustee, SKAN, said: “The research is expected to develop valuable clinical tests that will aid doctors in understanding what to expect of each patient.”
+Dr Jyoti Nangalia, group leader, Wellcome-MRC Stem Cell Institute and Sanger, said: “We hope that our genomics research will shed light on the origin and trajectory to these diseases to help patients in the future.”
+
+title: UCL begins first UK deep brain stimulation study for children with rare epilepsy
+
+metadata: 
+by
+Jen Brogan
+|
+27th Jun 2024
+|
+News
+
+content: 
+A new study sponsored by University College London (UCL) has begun, making it the UK’s first ever deep brain stimulation (DBS) trial for children with epilepsy.
+In collaboration between Great Ormond Street Hospital, UCL, King’s College London, the University of Oxford and Amber Therapeutics, the Children’s Adaptive Deep brain stimulation for Epilepsy Trial (CADET) pilot intends to recruit three additional patients living with Lennox-Gastaut syndrome (LGS).
+Affecting around 50 million people worldwide, epilepsy is a neurological condition where sudden bursts of electrical activity in the brain cause seizures or fits.
+Affecting up to 5% of children with paediatric epilepsy, LGS is a rare and severe form of epilepsy that is characterised by repeated seizures that begin early in life.
+The study will investigate the safety of a cranially-mounted DBS device called the Picostim with software called DyNeuMo-1, manufactured by Bioinduction, in paediatric patients living with LGS.
+Involving surgery, DBS is when a small device is inserted on the chest to stimulate specific parts of the brain.
+Instead, the Picostim DyNeuMo-1 device is mounted onto the skull, making it less likely for leads or wires to break or erode as the child grows.
+Rechargeable through wearing headphones, the device targets the thalamus, the hub for electrical signals in the brain, to block electrical pathways and stop seizures from spreading, and does not require surgery to replace it every three to five years.
+Already, the device has been shown to reduce daytime seizures by 80% in one child with epilepsy.
+A larger, second phase of the CADET trial, which will be jointly funded through GOSH Charity and LifeArc’s Translational Research Accelerator Grants, aims to recruit 22 patients to continue investigating DBS in LGS.
+Martin Tisdall, honorary associate professor, UCL and consultant paediatric neurosurgeon, GOSH, commented: “We are excited to build the evidence base to demonstrate the ability of DBS to treat paediatric epilepsy and hope… it will be a standard treatment we can offer.”
+
+title: IHI’s new funding round to include topics on CVD and arthritis
+
+metadata: 
+by
+Jen Brogan
+|
+26th Jun 2024
+|
+News
+
+content: 
+The Innovative Health Initiative (IHI) has launched a new call for proposals, which include topics on cardiovascular disease (CVD) and arthritis, as part of the total budget worth €96.5m to tackle challenges in health research and innovation.
+As part of the total budget, Horizon Europe, the EU’s research and innovation programme, has contributed €47.6m, while an additional €40.9m comes from the IHI’s industry members, as well as €8.1m from IHI contributing partners.
+Dr Niklas Blomberg, executive director, IHI, commented: “This call for proposals is an excellent opportunity to be part of ambitious projects tackling major challenges in health research and innovation.”
+The IHI aims to identify and create models, interventions and best practices to improve the management of CVD in Europe’s cities, covering healthcare delivery, individual lifestyle changes and the living environment. It will include five pilot studies in cities to generate evidence for wider use of the models.
+Accounting for 18 million deaths worldwide every year, CVD is the leading cause of global mortality, which is heightened in areas with high pollution rates, including urban areas in the EU.
+As studies have already suggested that osteoarthritis, a degenerative joint disease, could have several subgroups, the IHI aims to use a big data approach to identify them in patients who may benefit from different treatment approaches, while also paving the way for regulatory recognition of measures that predict the course of the disease and assess responses to treatments.
+Regulatory sandboxes allow innovators and regulators to collaborate and explore the best way to regulate a new technology to protect end users.
+The IHI plans to scan healthcare innovations for potential candidates for regulatory sandboxes and analyse how they can accelerate science and health technology innovations while delivering recommendations on how regulatory sandboxes should be implemented and used to inform innovations, regulators and other decision-makers.
+Lastly, the initiative aims to develop a framework and recommendations for using multiple types of patient-centred information alongside clinical studies to ensure that therapies address patients’ needs.
+
+title: Researchers reveal how a protein interaction can increase Alzheimer’s risk
+
+metadata: 
+by
+Jen Brogan
+|
+26th Jun 2024
+|
+News
+

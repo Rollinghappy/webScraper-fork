@@ -1,4 +1,4 @@
-from Scraper import Scraper
+from Scraper import homePageScrape
 
 urls = [
     'https://pharmaceutical-journal.com',
@@ -14,11 +14,13 @@ rss_urls = [
     'https://pharmatimes.com/news/rss/',
 ]
 
-url = 'https://www.fiercepharma.com/pharma/sarepta-duchenne-elevidys-label-expansion-fda-decision'
-scrapeArticle = Scraper(url, key='pfizer')
-response = scrapeArticle.fetch('html')
-cleanOutput = scrapeArticle.cleanOutput('html', response)
-scrapeArticle.saveToFile(cleanOutput, 'html')
+url = 'https://pharmatimes.com/'
+scrapeArticles = homePageScrape(url, key='pfizer')
+response = scrapeArticles.deepScrape(4)
+
+scrapeArticles.extractAndSave('my_file.txt')
+#cleanOutput = scrapeArticle.cleanOutput('html', response)
+#scrapeArticle.saveToFile(cleanOutput, 'html')
 
 # print(scrapeArticle.cleanOutput('xml', response))
 # article = scrapeArticle.cleanOutput('html', response)

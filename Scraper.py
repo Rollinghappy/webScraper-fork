@@ -6,6 +6,10 @@ from urllib.parse import urlparse
 import chardet
 import requests
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
 
 config_file = open('config.json')
 parser_configs = json.load(config_file)
@@ -65,7 +69,7 @@ class Scraper:
             soup = BeautifulSoup(response, 'html5lib')
             config = parser_configs[baseURL]
             for tag in config:
-                if tag in ['rss_config', 'homepage', 'search']:
+                if tag in ['rss_config', 'homepage', 'search','deep-scrape']:
                     continue
                 try:
                     parsedResponse[tag] = soup.find_all(class_=config[tag])[0]
@@ -176,18 +180,71 @@ class Scraper:
         return cleanOutput
 
     @staticmethod
-    def saveToFile(parsedOutput: dict, type: str):
+    def saveToFile(parsedOutput: dict, type: str, fileName : str, mode : str):
         if type == 'html':
-            with open('my_file.txt', 'w') as f:
+            with open(fileName, mode) as f:
                 for key in parsedOutput:
                     f.write(key + ": " + parsedOutput[key] + '\n')
             f.close()
 
         elif type == 'xml':
-            with open('my_file.txt', 'w') as f:
+            with open(fileName, mode) as f:
                 for id in parsedOutput:
                     f.write(str(id) + '\n')
                     for key in parsedOutput[id]:
                         f.write(key + ": " + parsedOutput[id][key] + '\n')
                     f.write('\n')
             f.close()
+
+
+class homePageScrape:
+
+    def __init__(self, url, key):
+        self.url = url
+        self.key = key
+
+    def deepScrape(self,count):
+
+        path = Service(r"C:\Users\fnafb\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe")
+        options = webdriver.ChromeOptions()
+        options.add_experimental_option('excludeSwitches', ['enable-logging'])
+        driver = webdriver.Chrome(service=path, options=options)
+
+
+        baseURL = urlparse(self.url).netloc
+        config = parser_configs[baseURL]['deep-scrape']
+        website = config['link']
+        driver.get(website)
+        
+        scrapedLinks=[]
+
+        for i in range(count):
+            allArticles = driver.find_elements(By.XPATH,config['parent'])
+
+
+            for article in allArticles:
+                link_tag = article.find_element(By.TAG_NAME, config['href'])
+                href = link_tag.get_attribute('href')
+                scrapedLinks.append(href)
+
+
+            nextButton = driver.find_element(By.XPATH,config['next'])
+
+            if(config['next-type']=='link'):
+                nextLink = nextButton.get_attribute('href')
+                driver.get(nextLink)
+            else:
+                nextButton.click()
+        self.scrapedLinks = scrapedLinks
+        return scrapedLinks
+    
+    def extractAndSave(self, fileName):
+        links = self.scrapedLinks
+
+        for url in links:
+            scrapeArticle = Scraper(url, key='pfizer')
+            response = scrapeArticle.fetch('html')
+            cleanOutput = scrapeArticle.cleanOutput('html', response)
+            scrapeArticle.saveToFile(cleanOutput, 'html', fileName, 'a')
+            del scrapeArticle
+        print('extraction successful and saved to file '+ fileName)
